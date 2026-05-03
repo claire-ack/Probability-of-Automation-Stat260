@@ -14,7 +14,7 @@ To install the required R packages, run the following code in R:
 
 ```r
 install.packages(c("tidyverse", "dplyr", "olsrr", "interactions", "ggplot2",
-                   "scales", "glmnet", "readxl", "readr", "stringr"))
+                   "scales", "glmnet", "readxl", "readr", "stringr","tidyr"))
 ```
 
 ## Data
